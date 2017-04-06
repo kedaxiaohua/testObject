@@ -16,7 +16,7 @@ __published:	// IDE-managed Components
         TButton *Button3;
 private:	// User declarations
 public:		// User declarations
-        __fastcall TForm1(TComponent* Owner);
+void function(int a)
 };
 //---------------------------------------------------------------------------
 extern PACKAGE TForm1 *Form1;
