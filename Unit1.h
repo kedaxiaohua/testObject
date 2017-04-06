@@ -16,7 +16,7 @@ __published:	// IDE-managed Components
         TButton *Button3;
 private:	// User declarations
 public:		// User declarations
-void function(int a)
+void Tform1();
 };
 //---------------------------------------------------------------------------
 extern PACKAGE TForm1 *Form1;
